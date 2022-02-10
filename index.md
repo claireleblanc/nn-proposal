@@ -23,13 +23,21 @@ The main goal of this project is to create a tool that helps doctors during thei
 **Introduction Outline:**
 1. Introductory paragraph: What is the problem and why is it relevant to the audience attending THIS CONFERENCE? Moreover, why is the problem hard, and what is your solution? 
 
+Classifying breast cancer tissue images by hand takes a lot of time and can be inaccurate.
+
 2. Background paragraph: Elaborate on why the problem is hard, critically examining prior work, trying to tease out one or two central shortcomings that your solution overcomes.
 
 3. Transition paragraph: What keen insight did you apply to overcome the shortcomings of other approaches? Structure this paragraph like a syllogism: Whereas P and P=>Q, infer Q.
 
+Many previous attempts only used a few layers, so we hope to improve on their work by using more layers for our neural network. 
+
 4. Details paragraph: What technical challenges did you have to overcome and what kinds of validation did you perform?
 
+Some of the challenges we forsee are time limitations in our algorithm, as well as difficulties in the size of the images. 
+
 5. Assessment paragraph: Assess your results and briefly state the broadly interesting conclusions that these results support. 
+
+We hope our model will be able to achieve a high degree of accuracy, comparable to a human. 
 
 **Ethical Sweep**
 
